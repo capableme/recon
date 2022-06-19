@@ -13,4 +13,4 @@
 # Executes RepoSense
 # Do not change the default output folder name (reposense-report)
 ## Examples of other valid options; For more, please view the user guide
-jjava -jar RepoSense.jar --repos https://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@github.com/porterin/OrderManagementService
+jjava -jar RepoSense.jar --repos https://capableme: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@github.com/porterin/OrderManagementService
